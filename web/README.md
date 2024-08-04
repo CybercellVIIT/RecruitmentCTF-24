@@ -1,6 +1,6 @@
-## 🎉 Welcome to the **[Domain]** Section! ��
+## 🎉 Welcome to the **[Web]** Section! ��
 
-This is the hub for all our **[Domain]** challenges, We’re thrilled to have you contribute and collaborate in crafting these challenges for our CTF event! 🚀
+This is the hub for all our **[Web]** challenges, We’re thrilled to have you contribute and collaborate in crafting these challenges for our CTF event! 🚀
 
 ### 🛠️ Contributing Guidelines
 
