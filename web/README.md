@@ -1,4 +1,4 @@
-## 🎉 Welcome to the **[Web]** Section! ��
+## 🎉 Welcome to the **[Web]** Section! 🎉
 
 This is the hub for all our **[Web]** challenges, We’re thrilled to have you contribute and collaborate in crafting these challenges for our CTF event! 🚀
 
