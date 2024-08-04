@@ -1,6 +1,6 @@
-## 🎉 Welcome to the **[Web]** Section! 🎉
+## 🎉 Welcome to the **[Domain]** Section! ��
 
-This is the hub for all our **[Web]** challenges, We’re thrilled to have you contribute and collaborate in crafting these challenges for our CTF event! 🚀
+This is the hub for all our **[Domain]** challenges, We’re thrilled to have you contribute and collaborate in crafting these challenges for our CTF event! 🚀
 
 ### 🛠️ Contributing Guidelines
 
@@ -10,7 +10,7 @@ Please follow these steps when adding a new challenge to this domain:
    - Name the folder after the challenge title, using lowercase letters and dashes instead of spaces (e.g., `boot-failed`).
 
 2. **📝 Challenge Information:**
-   - Inside the challenge's folder, create a `README.md` file with the following template:
+   - Inside the challenge's folder, create a `README.md` file with the following [template](../templates/challenge-template.md)
 
 ```markdown
 # ✨ Challenge Name: **[Name of the Challenge]**
