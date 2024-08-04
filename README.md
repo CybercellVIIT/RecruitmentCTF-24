@@ -5,11 +5,11 @@ Welcome to the central repository for our **RecruitmentCTF-24** challenges! 🎯
 To keep things organized, please adhere to the following folder structure:
 
 1. **Domain Categories**:
-   - Each domain (e.g., Web, Crypto, Pwn) has its own folder in this repository.
+   - Each domain (e.g., Web, Crypto, Rev) has its own folder in this repository.
    - Navigate to the appropriate domain folder where you will find sub-folders for individual challenges.
 
 2. **Challenge Sub-folders**:
-   - Inside the domain folder, create a sub-folder for your challenge. Name it using lowercase letters and dashes (e.g., `example-challenge`).
+   - Inside the domain folder, create a sub-folder for your challenge. Name it using lowercase letters and dashes (e.g., `example-challenge-name`).
 
 3. **Challenge Information**:
    - Within your challenge's folder, create a `README.md` file.
