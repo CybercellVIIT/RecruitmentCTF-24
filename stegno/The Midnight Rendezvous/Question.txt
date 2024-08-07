@@ -1,1 +1,5 @@
+Detective Jane received an anonymous tip about a secret meeting between two infamous hackers. The message contained a strange text file titled "The Best of Times". Jane knew the hackers were experts in steganography, often hiding their messages in plain sight. The text file seemed ordinary at first glance, but Jane's experience told her the real message was cleverly concealed within the text.
+Jane noticed something peculiar—the file was exactly 330k in size, which was unusual for such a short excerpt
+Armed with her knowledge, Jane decided to look closer. She knew that hackers often used whitespace manipulation to encode messages. By analyzing the patterns of spaces and indents, she hoped to uncover the hidden communication.
+Can you help Detective Jane uncover the secret note hidden in the text file?
 
