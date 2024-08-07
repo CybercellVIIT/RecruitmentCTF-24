@@ -8,7 +8,7 @@ Who am I, in this comic book duel?
 
 The password is the name of my favourite Pet
 
-[Answer in all caps]
+[Answer in all caps and use "_" in place of spaces]
 
 ## ⚖️ Difficulty
 - **Easy**: 
