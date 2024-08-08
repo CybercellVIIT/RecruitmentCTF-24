@@ -20,7 +20,7 @@ The password is the name of my favourite Pet
 `RecruitmentCTF{De@dP00l_is_C00L}`
 
 ## 🔍 Is Tested
-**Status:** ❌ False
+**Status:** ✅ True
 
 ## 🛠️ Setup Instructions (if applicable)
 None
