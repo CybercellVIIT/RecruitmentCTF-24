@@ -26,8 +26,8 @@ The password is the name of my favourite Pet
 None
 
 ## 💡 Hints (optional)
-Challenge is Realted to Deadpool
-Use the Windows-only tool for embedding files in audio.
+1) Challenge is Realted to Deadpool
+2) Use the Windows-only tool for embedding files in audio.
 
 ## ✍️ Author
 **Manjiree Sanap | Mannn & Kanishk Kumar | k30**
