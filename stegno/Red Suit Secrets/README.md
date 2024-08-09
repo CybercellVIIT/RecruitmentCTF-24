@@ -27,6 +27,7 @@ None
 
 ## 💡 Hints (optional)
 Challenge is Realted to Deadpool
+Use the Windows-only tool for embedding files in audio.
 
 ## ✍️ Author
 **Manjiree Sanap | Mannn & Kanishk Kumar | k30**
