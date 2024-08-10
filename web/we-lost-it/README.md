@@ -26,6 +26,7 @@ cd <>
 npm install
 node app.js
 ```
+`After Deploy; Add register.txt`
 
 ## 💡 Hints (optional)
 _[None]_
