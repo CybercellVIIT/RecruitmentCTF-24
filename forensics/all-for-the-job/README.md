@@ -3,12 +3,11 @@
 ## 📜 Description
 _A client of mine called me in the middle of the night yelling angrily through the phone. Someone had hacked into his system and encrypted all his files. Ugh! I hate business execs and their Volatile temper. Help me find out what's wrong with his PC to get my paycheck this month._ <br>
 
-_Flag is divided in three parts:_
-- _Part I. Malicious process name_
-- _Part II. PPID of the process_
-- _Part III. Ransomware name_
+_Flag is divided in two parts:_
+- _Part I. Path where the suspicious exe was first executed_
+- _Part II. Ransomware name_
 
-_Flag format: `RecruitmentCTF{PartI_PartII_PartIII}`_
+_Flag format: `RecruitmentCTF{PartI_PartII}`_
 
 ## ⚖️ Difficulty
 - **Easy**: 
@@ -17,10 +16,10 @@ _Flag format: `RecruitmentCTF{PartI_PartII_PartIII}`_
 - **Expert**: 
 
 ## 🚩 Flag
-`RecruitmentCTF{@WanaDecryptor_2732_WannaCry}`
+`RecruitmentCTF{C:\Users\hacker\Desktop\or4qtckT.exe_WannaCry}`
 
 ## 🔍 Is Tested
-**Status:** ❌ False
+**Status:** ✅ True
 
 ## 🛠️ Setup Instructions (if applicable)
 _None_
