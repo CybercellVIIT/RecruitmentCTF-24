@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search for File</title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+    <h1>Search for a File</h1>
+    <h2>You are in "/mnt/recruit-ctf/web/samarth-ghante/chall0" directory!</h2>
+    <p1 class="ls">
+        <pre>
+            . <br/>
+            .. <br/>
+            app.js <br/>
+            flag.txt <br/>
+            package.json <br/>
+            package-lock.json <br/>
+            public <br/>
+            node_modules <br/>
+            views
+        </pre>
+    </p1>
+    <form action="/filesystem" method="get">
+        <label for="filename">Enter relative filename (e.g., ./flag.txt):</label>
+        <input type="text" id="filename" name="filename" required>
+        <button type="submit">Search</button>
+    </form>
+
+    <a href="/">Go Back</a>
+</body>
+</html>

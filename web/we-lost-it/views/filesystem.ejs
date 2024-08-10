@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File System Viewer</title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+    <h1>File Content Viewer</h1>
+
+    <% if (content) { %>
+        <h2>Content of <%= filename %>:</h2>
+        <pre><%= content %></pre>
+    <% } else { %>
+        <h2>No content available.</h2>
+    <% } %>
+
+    <a href="/search">Search Another File</a>
+</body>
+</html>
