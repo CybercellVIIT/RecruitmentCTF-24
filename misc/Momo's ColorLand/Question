@@ -1,0 +1,14 @@
+QUESTION 1: Momo the puppy spent a day exploring a colourful website dedicated to color psychology. Fascinated by the vibrant hues and their psychological effects, Momo decided to take notes. 
+Little did Momo know, his notes included a hidden message encoded in the website's HTML. Your task is to help Momo uncover this hidden message.
+
+Visit the website where Momo is learning about colors and inspect it:
+https://momos-colour-land.ark0.pp.ua/
+
+QUESTION 2 : What is the next color found in Momo’s notes that reveals the hidden detail about color and the place to study it more?
+
+Question Part 2: Oh well that’s a surprise there’s a link to a colourful place? Time to get out your online microscopic LENS and COORDINATE with Momo and 
+find the place linked to the previous colour.
+
+(Hint Co-ordinate format should only be in DD)
+
+Format: RecruitmentCTF{00.00 , 00.00}
