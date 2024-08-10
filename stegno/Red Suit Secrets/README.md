@@ -30,4 +30,4 @@ None
 2) Use the Windows-only tool for embedding files in audio.
 
 ## ✍️ Author
-**Manjiree Sanap | Mannn & Kanishk Kumar | k30**
+**Manjiree Sanap | manjireesanap & Kanishk Kumar | k30**
