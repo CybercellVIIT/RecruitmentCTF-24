@@ -23,6 +23,7 @@ git clone <>
 cd <>
 npm install
 node app.js
+```
 
 ## 💡 Hints (optional)
 _[None]_
