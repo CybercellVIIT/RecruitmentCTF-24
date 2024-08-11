@@ -11,7 +11,7 @@ In Neon City, the hacker "Cipher" hid a message in the digital artwork "Cyberpun
 - **Expert**: 
 
 ## 🚩 Flag
-`RecruitmentCTF{Cipher_1SYet_toBe_CaUghT}`
+`RecruitmentCTF{Cipher_1S_Yet_to_Be_CaUghT}`
 
 ## 🔍 Is Tested
 **Status:** ❌ False
