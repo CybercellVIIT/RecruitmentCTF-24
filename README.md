@@ -1,4 +1,8 @@
-Welcome to the central repository for our **RecruitmentCTF-24** challenges! 🎯 Here, we collaboratively create and manage challenges for our CTF events. To ensure everything runs smoothly, please follow the guidelines below. Your contributions are greatly appreciated! 🙌
+<p align="center">
+  <img src="/templates/CTF.png" alt="RecruitmentCTF" />
+</p>
+
+Welcome to the central repository for our **RecruitmentCTF-24** challenges! 🎯Here, we collaboratively create and manage challenges for our CTF events. To ensure everything runs smoothly, please follow the guidelines below. Your contributions are greatly appreciated! 🙌
 
 ## 📂 Folder Structure
 
