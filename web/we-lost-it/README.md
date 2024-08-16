@@ -21,12 +21,12 @@ Previous known location is stored in "/register.txt"
 
 ## 🛠️ Setup Instructions (if applicable)
 ```
-git clone <>
-cd <>
+git clone https://github.com/SamarthGhante/RecruitmentCTF-24
+cd RecruitmentCTF-24/web/we-lost-it
 npm install
 node app.js
 ```
-`After Deploy; Add register.txt`
+`After Deploy; Add register.txt to root directory.`
 
 ## 💡 Hints (optional)
 _[None]_
