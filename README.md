@@ -4,6 +4,37 @@
 
 Welcome to the central repository for our **RecruitmentCTF-24** challenges! 🎯Here, we collaboratively create and manage challenges for our CTF events. To ensure everything runs smoothly, please follow the guidelines below. Your contributions are greatly appreciated! 🙌
 
+---
+
+| **Challenges**                       | **Writeup** | **Link to Writeup Folder**                                   |
+| ------------------------------------ | ----------- | ------------------------------------------------------------ |
+| **Crypto**                           |             |                                                              |
+| crack-the-loop                       | ✔️          | [Link](crypto/crack-the-loop/writeup)                        |
+| crypto-maniac                        | ✔️          | [Link](crypto/crypto-maniac/writeup)                         |
+| escape-room                          | ✔️          | [Link](crypto/escape-room/writeup)                           |
+| unlocking-the-pasts-portal           | ✔️          | [Link](crypto/unlocking-the-pasts-portal/writeup)            |
+| **Forensics**                        |             |                                                              |
+| all-for-the-job                      | ❌          | [Link](forensics/all-for-the-job)                            |
+| path-to-entry                        | ✔️          | [Link](forensics/path-to-entry/writeup)                      |
+| veiled-signals                       | ✔️          | [Link](forensics/veiled-signals/writeup)                     |
+| you-cant-see-me                      | ✔️          | [Link](forensics/you-cant-see-me/writeup)                    |
+| **OSINT**                            |             |                                                              |
+| the-invisible-date                   | ✔️          | [Link](osint/the-invisible-date/writeup)                     |
+| wifi-crack                           | ✔️          | [Link](osint/wifi-crack/writeup)                             |
+| **Rev**                              |             |                                                              |
+| be-in-your-limits                    | ❌          | [Link](rev/be-in-your-limits)                                |
+| keygenme                             | ❌          | [Link](rev/keygenme)                                         |
+| my-fav-numbers                       | ❌          | [Link](rev/my-fav-numbers)                                   |
+| random-reversal                      | ❌          | [Link](rev/random-reversal)                                  |
+| **Stegno**                           |             |                                                              |
+| cipher-2                             | ✔️          | [Link](stegno/cipher-2/writeup)                              |
+| mysterious-music                     | ✔️          | [Link](stegno/mysterious-music/writeup)                      |
+| red-suit-secrets                     | ✔️          | [Link](stegno/red-suit-secrets/writeup)                      |
+| the-midnight-rendezvous              | ✔️          | [Link](stegno/the-midnight-rendezvous/writeup)               |
+| **Web**                              |             |                                                              |
+| momos-colorland                      | ✔️          | [Link](web/momos-colorland/writeup)                          |
+| we-lost-it                           | ✔️          | [Link](web/we-lost-it/writeup)                               |
+
 ## 📂 Folder Structure
 
 To keep things organized, please adhere to the following folder structure:
@@ -26,6 +57,5 @@ Please ensure all challenges are submitted and updated by **8th August 2024**. T
 ## 📚 Additional Resources
 
 - **[Contributing Guidelines](./templates/contributing-guidelines.md)**: Detailed guidelines on how to contribute effectively.
-- **[Focalboard](https://vishwactf.com)**: Track challenge status and updates.
 
 ## 🙏 Thank You!
