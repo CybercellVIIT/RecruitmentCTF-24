@@ -22,10 +22,10 @@ Welcome to the central repository for our **RecruitmentCTF-24** challenges! 🎯
 | the-invisible-date                   | ✔️          | [Link](osint/the-invisible-date/writeup)                     |
 | wifi-crack                           | ✔️          | [Link](osint/wifi-crack/writeup)                             |
 | **Rev**                              |             |                                                              |
-| be-in-your-limits                    | ❌          | [Link](rev/be-in-your-limits)                                |
-| keygenme                             | ❌          | [Link](rev/keygenme)                                         |
-| my-fav-numbers                       | ❌          | [Link](rev/my-fav-numbers)                                   |
-| random-reversal                      | ❌          | [Link](rev/random-reversal)                                  |
+| be-in-your-limits                    | ✔️          | [Link](rev/be-in-your-limits/writeup/)                                |
+| keygenme                             | ✔️          | [Link](rev/keygenme/writeup/)                                         |
+| my-fav-numbers                       | ✔️          | [Link](rev/my-fav-numbers/writeup/)                                   |
+| random-reversal                      | ✔️          | [Link](rev/random-reversal/writeup/)                                  |
 | **Stegno**                           |             |                                                              |
 | cipher-2                             | ✔️          | [Link](stegno/cipher-2/writeup)                              |
 | mysterious-music                     | ✔️          | [Link](stegno/mysterious-music/writeup)                      |
